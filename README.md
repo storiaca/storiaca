@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aleksandar Ristic, Frontend Developer
+- 👋 Hi, I’m Aleksandar Ristic, Front End Developer
 - 👀 I’m interested in JavaScript, React, Typescript, node
 - 🌱 I’m currently learning web3, rust, vim
 - 💞️ I’m looking to collaborate on any type of project related to technologies that I'm learning
