@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Aleksandar Ristic, Front End Developer
 - 👀 I’m interested in JavaScript, React, Typescript, node
 - 🌱 I’m currently learning web3, rust, vim
-- 💞️ I’m looking to collaborate on any type of project related to technologies that I'm learning
-- 📫 How to reach me by email: storiaca@gmail.com
+- 💞️ I’m looking to collaborate on any project related to technologies that I'm learning
 
 <!---
 storiaca/storiaca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
