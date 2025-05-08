@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aleksandar Ristic, Front End Developer
-- 👀 I’m interested in JavaScript, React, Typescript, node
-- 🌱 I’m currently learning python, php, vim
+- 👀 I’m interested in JavaScript, React, Typescript, node, Data Science
+- 🌱 I’m currently learning python, php, R, vim
 - 💞️ I’m looking to collaborate on any project related to technologies that I'm learning
 
 <!---
